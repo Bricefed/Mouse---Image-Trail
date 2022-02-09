@@ -1,12 +1,6 @@
-# Skeleton - Basic JS
+# Mouse - Image Trail
 
-## Composition
 
-- `index.html`
-- `styles.css`
-- `main.js`
 
-## Utilisation
-```
-git clone https://github.com/Bricefed/Skeleton---Basic-JS.git <newName>
-```
+https://user-images.githubusercontent.com/57669374/153282209-b396e664-8120-4b5a-97a0-00b2ebf6d655.mov
+
